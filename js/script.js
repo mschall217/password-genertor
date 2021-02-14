@@ -2,6 +2,7 @@
 function getRandomLower() {
 	return String.fromCharCode(Math.floor(Math.random() * 26) + 97);
 }
+
 // char code set
 //console.log(String.fromCharCode()); results in a 97-122 lowercase letters
 //console.log(Math.random()*26); get a decimal between 1-26
