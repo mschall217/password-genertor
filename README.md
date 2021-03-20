@@ -19,7 +19,8 @@ This project was all about taking an existing HTML/CSS file and using javascript
 
 ## Screenshot 
 
-![screenshot](images/screenshot.png)
+![Password Generator](https://user-images.githubusercontent.com/75554590/111886008-8a6be980-89a1-11eb-8620-27d29b4b0524.gif)
+
 
 
 ## Support
